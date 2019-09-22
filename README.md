@@ -5,6 +5,7 @@ This is a library to create, get and delete data from a DB on Firebase.
 ```cmd
 Install-Package FirebaseAPI -Version 1.0.0
 ```
+# Usage
 
 ## Initialize the client.
 ```C#
