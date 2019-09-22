@@ -338,3 +338,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+*.bat
+/FirebaseAPI/nuget.exe
+/FirebaseAPI/FirebaseAPI.nuspec
