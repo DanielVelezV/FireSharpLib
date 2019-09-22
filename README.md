@@ -1,6 +1,11 @@
 # FireSharpLib
 This is a library to create, get and delete data from a DB on Firebase.
 
+## Installation
+```cmd
+Install-Package FirebaseAPI -Version 1.0.0
+```
+
 ## Initialize the client.
 ```C#
 FireClient.InitializeClient(YourBaseFirebaseAddress);
