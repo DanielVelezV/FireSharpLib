@@ -50,4 +50,4 @@ bool completed = await FireProcessor.DeleteAuth(string path)
 ## ToDo
 - [ ] Add the rest of the requests
 - [ ] Allow all the datatypes
-- [x] Learn programming :P
+- [ ] Learn programming :P
